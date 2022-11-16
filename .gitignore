@@ -1,0 +1,10 @@
+.env*
+!.env.EXAMPLE
+node_modules
+.cache
+public
+dist
+.DS_Store
+docs
+pull_request_template.md 
+README.md 
